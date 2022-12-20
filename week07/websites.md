@@ -1,2 +1,3 @@
-repo: https://github.com/msCOJUANGCO/website
-site: https://mscojuangco.github.io/website/index.html
+# LINKS
+* [the repo](https://github.com/msCOJUANGCO/website)
+* [my site](https://mscojuangco.github.io/website/index.html)
